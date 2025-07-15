@@ -25,7 +25,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
   ]);
   const [inputValue, setInputValue] = useState('');
   const [isTyping, setIsTyping] = useState(false);
-  const [apiKey, setApiKey] = useState(localStorage.getItem('zhipu_api_key') || '');
+  const [apiKey, setApiKey] = useState('c1d9bfb8f56a4a4d9589dc1633b1f184.3TEagIYOhMTQ6llq');
   const [showApiModal, setShowApiModal] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
@@ -171,27 +171,6 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
         </div>
       </div>
 
-      {/* API Key Warning */}
-      {!apiKey && (
-        <div className="max-w-4xl mx-auto px-6 py-4">
-          <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-4 flex items-start gap-3">
-            <AlertCircle className="w-5 h-5 text-yellow-600 mt-0.5 flex-shrink-0" />
-            <div className="flex-1">
-              <p className="text-yellow-800 font-semibold">需要配置API密钥</p>
-              <p className="text-yellow-700 text-sm mt-1">
-                请先配置智谱AI的API密钥才能使用AI问答功能。
-              </p>
-              <button
-                onClick={() => setShowApiModal(true)}
-                className="mt-2 text-yellow-800 hover:text-yellow-900 font-semibold text-sm underline"
-              >
-                立即配置 →
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
-
       {/* Chat Container */}
       <div className="max-w-4xl mx-auto px-6 py-8">
         <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
@@ -284,15 +263,15 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
                   value={inputValue}
                   onChange={(e) => setInputValue(e.target.value)}
                   onKeyPress={handleKeyPress}
-                  placeholder={apiKey ? "请输入您想了解的济南文化问题..." : "请先配置API密钥..."}
+                  placeholder="请输入您想了解的济南文化问题..."
                   className="w-full px-4 py-3 border border-slate-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none disabled:bg-slate-50 disabled:text-slate-500"
                   rows={2}
-                  disabled={isTyping || !apiKey}
+                  disabled={isTyping}
                 />
               </div>
               <button
                 onClick={handleSendMessage}
-                disabled={!inputValue.trim() || isTyping || !apiKey}
+                disabled={!inputValue.trim() || isTyping}
                 className="px-6 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 flex items-center gap-2"
               >
                 <Send className="w-4 h-4" />
