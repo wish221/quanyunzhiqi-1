@@ -41,12 +41,6 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
   const handleSendMessage = async () => {
     if (!inputValue.trim()) return;
 
-    // 检查是否配置了API密钥
-    if (!apiKey) {
-      setShowApiModal(true);
-      return;
-    }
-
     const userMessage: Message = {
       id: Date.now().toString(),
       content: inputValue,
