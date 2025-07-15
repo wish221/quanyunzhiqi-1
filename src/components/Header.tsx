@@ -1,7 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 
-const Header = () => {
+interface HeaderProps {
+  onChatClick: () => void;
+}
+
+const Header: React.FC<HeaderProps> = ({ onChatClick }) => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
@@ -35,15 +39,15 @@ const Header = () => {
         {/* Desktop Navigation */}
         <ul className="hidden md:flex items-center gap-8">
           {[
-            { label: '核心功能', id: 'features' },
-            { label: 'AI体验', id: 'ai-demo' },
-            { label: '特色文化', id: 'highlight' },
-            { label: '关于项目', id: 'about' },
-            { label: '联系我们', id: 'contact' }
+            { label: '核心功能', id: 'features', action: 'scroll' },
+            { label: 'AI体验', id: 'ai-demo', action: 'scroll' },
+            { label: '特色文化', id: 'highlight', action: 'scroll' },
+            { label: '文化问答', id: 'chat', action: 'chat' },
+            { label: '联系我们', id: 'contact', action: 'scroll' }
           ].map((item) => (
             <li key={item.id}>
               <button
-                onClick={() => scrollToSection(item.id)}
+                onClick={() => item.action === 'chat' ? onChatClick() : scrollToSection(item.id)}
                 className="text-slate-700 font-semibold hover:text-blue-800 transition-colors duration-300 relative group"
               >
                 {item.label}
@@ -66,15 +70,15 @@ const Header = () => {
           <div className="absolute top-full left-0 w-full bg-white shadow-lg md:hidden">
             <ul className="py-4">
               {[
-                { label: '核心功能', id: 'features' },
-                { label: 'AI体验', id: 'ai-demo' },
-                { label: '特色文化', id: 'highlight' },
-                { label: '关于项目', id: 'about' },
-                { label: '联系我们', id: 'contact' }
+                { label: '核心功能', id: 'features', action: 'scroll' },
+                { label: 'AI体验', id: 'ai-demo', action: 'scroll' },
+                { label: '特色文化', id: 'highlight', action: 'scroll' },
+                { label: '文化问答', id: 'chat', action: 'chat' },
+                { label: '联系我们', id: 'contact', action: 'scroll' }
               ].map((item) => (
                 <li key={item.id}>
                   <button
-                    onClick={() => scrollToSection(item.id)}
+                    onClick={() => item.action === 'chat' ? onChatClick() : scrollToSection(item.id)}
                     className="block w-full text-left px-6 py-3 text-slate-700 font-semibold hover:bg-blue-50 hover:text-blue-800 transition-colors duration-300"
                   >
                     {item.label}

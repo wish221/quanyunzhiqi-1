@@ -1,7 +1,11 @@
 import React from 'react';
 import { MessageCircle, Route, BookOpen, Search, Zap, Smartphone } from 'lucide-react';
 
-const Features = () => {
+interface FeaturesProps {
+  onChatClick: () => void;
+}
+
+const Features: React.FC<FeaturesProps> = ({ onChatClick }) => {
   const features = [
     {
       icon: MessageCircle,
@@ -82,8 +86,11 @@ const Features = () => {
                 <p className="text-slate-600 mb-6 leading-relaxed">
                   {feature.description}
                 </p>
-                <button className="text-blue-800 font-semibold hover:text-blue-900 transition-colors duration-300 flex items-center gap-2 group-hover:gap-3">
-                  了解更多
+                <button 
+                  onClick={index === 0 ? onChatClick : undefined}
+                  className="text-blue-800 font-semibold hover:text-blue-900 transition-colors duration-300 flex items-center gap-2 group-hover:gap-3"
+                >
+                  {index === 0 ? '立即体验' : '了解更多'}
                   <span className="transition-transform duration-300">→</span>
                 </button>
               </div>
