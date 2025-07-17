@@ -3,9 +3,10 @@ import { MessageCircle, Route, BookOpen, Search, Zap, Smartphone } from 'lucide-
 
 interface FeaturesProps {
   onChatClick: () => void;
+  onFolkloreClick: () => void;
 }
 
-const Features: React.FC<FeaturesProps> = ({ onChatClick }) => {
+const Features: React.FC<FeaturesProps> = ({ onChatClick, onFolkloreClick }) => {
   const features = [
     {
       icon: MessageCircle,
@@ -87,10 +88,10 @@ const Features: React.FC<FeaturesProps> = ({ onChatClick }) => {
                   {feature.description}
                 </p>
                 <button 
-                  onClick={index === 0 ? onChatClick : undefined}
+                  onClick={index === 0 ? onChatClick : index === 4 ? onFolkloreClick : undefined}
                   className="text-blue-800 font-semibold hover:text-blue-900 transition-colors duration-300 flex items-center gap-2 group-hover:gap-3"
                 >
-                  {index === 0 ? '立即体验' : '了解更多'}
+                  {index === 0 ? '立即体验' : index === 4 ? '立即体验' : '了解更多'}
                   <span className="transition-transform duration-300">→</span>
                 </button>
               </div>
