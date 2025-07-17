@@ -678,5 +678,3 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
 };
 
 export default FolkloreGuide;
-
-export default FolkloreGuide
