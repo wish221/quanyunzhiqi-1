@@ -198,7 +198,12 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         guide: {
           title: '实操指南',
-          content: `参与准备：
+          content: \`参与准备：
+        }
+      }
+    }
+  }
+}
 • 服装要求：无特别要求，可租借汉服更沉浸
 • 时间安排：7月至8月底
 • 人数限制：无
@@ -222,12 +227,12 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       'spring-tea-ceremony': {
         history: {
           title: '历史溯源',
-          content: `济南泉水茶艺文化始于唐代，兴盛于宋明时期。济南独特的泉水资源为茶艺文化的发展提供了得天独厚的条件。
+          content: \`济南泉水茶艺文化始于唐代，兴盛于宋明时期。济南独特的泉水资源为茶艺文化的发展提供了得天独厚的条件。
 
 发展历程：
 • 唐代起源：茶圣陆羽在《茶经》中提及济南泉水适宜泡茶
 • 宋代繁荣：苏轼、曾巩等文人在济南品茶作诗，推广泉水茶文化
-• 明清鼎盛：形成了独特的"济南泉水茶道"，讲究水质、茶叶、器具的完美结合
+• 明清鼎盛：形成了独特的"济南泉水茶道\"，讲究水质、茶叶、器具的完美结合
 • 民国传承：老舍等文人继续传承和发扬泉水茶文化
 • 现代复兴：结合旅游业发展，泉水茶艺成为济南文化名片
 
@@ -235,7 +240,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: `现代泉水茶艺体验将传统茶道与济南泉水文化完美结合，形成独具特色的文化体验项目。
+          content: \`现代泉水茶艺体验将传统茶道与济南泉水文化完美结合，形成独具特色的文化体验项目。
 
 体验内容：
 • 泉水取水仪式：亲自到名泉取水，了解不同泉水的特点
@@ -253,7 +258,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         guide: {
           title: '实操指南',
-          content: `活动安排：
+          content: \`活动安排：
 • 时长：2-3小时
 • 地点：大明湖茶艺馆、趵突泉茶社
 • 人数：5-20人小班制教学
@@ -293,7 +298,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       'spring-poetry': {
         history: {
           title: '历史溯源',
-          content: `泉边诗会是济南文人雅集的传统形式，起源于宋代，历经千年传承至今。
+          content: \`泉边诗会是济南文人雅集的传统形式，起源于宋代，历经千年传承至今。
 
 历史发展：
 • 北魏时期：据《水经注》记载，这里昔日潭深莫测，每遇大旱，祷雨则应
@@ -305,7 +310,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: `参与丰富多样的互动游戏，观赏精彩演出，逛市集品美食。
+          content: \`参与丰富多样的互动游戏，观赏精彩演出，逛市集品美食。
 
 活动内容：
 • 参与互动游戏：每周六下午 14：30 可到名士阁西侧青泉广场参与 “撒泼大战”“蒙眼递瓜吃瓜大战” 等趣味互动游戏，在欢乐中释放夏日激情，获胜家庭还可获得精美礼品
@@ -317,7 +322,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         guide: {
           title: '实操指南',
-          content: `活动详情：
+          content: \`活动详情：
 • 时间：七月至八月，每日开放，周末活动更丰富
 • 地点：五龙潭公园
 • 季节：夏季为最佳时节
@@ -349,7 +354,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
    - 颁发参与证书
 
 **预约方式：**
-• **微信预约**：搜索"济南诗会体验"小程序
+• **微信预约**：搜索"济南诗会体验\"小程序
 • **电话预约**：0531-8888-7780
 • **现场报名**：黑虎泉游客服务中心
 
@@ -367,20 +372,20 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       'traditional-crafts': {
         history: {
           title: '历史溯源',
-          content: `济南传统手工艺历史悠久，可追溯到春秋战国时期。作为齐鲁文化的重要组成部分，济南手工艺在历史长河中不断发展和传承。
+          content: \`济南传统手工艺历史悠久，可追溯到春秋战国时期。作为齐鲁文化的重要组成部分，济南手工艺在历史长河中不断发展和传承。
 
 **主要工艺发展史：**
-• **面塑艺术**：起源于汉代，明清时期达到高峰，以"济南面人"闻名全国
-• **剪纸工艺**：始于南北朝，宋代形成独特的"济南剪纸"风格
+• **面塑艺术**：起源于汉代，明清时期达到高峰，以"济南面人\"闻名全国
+• **剪纸工艺**：始于南北朝，宋代形成独特的"济南剪纸\"风格
 • **糖画技艺**：明代传入济南，清代在芙蓉街等地广泛流传
 • **泥塑工艺**：唐代兴起，以制作各种民俗题材的泥塑著称
-• **刺绣技艺**：宋代发展，形成了独特的"鲁绣"风格
+• **刺绣技艺**：宋代发展，形成了独特的"鲁绣\"风格
 
 这些手工艺不仅是技艺的传承，更承载着济南人民的智慧和文化记忆。`
         },
         experience: {
           title: '当代体验形式',
-          content: `现代传统手工艺体验将古老技艺与现代教学方法相结合，让参与者在轻松愉快的氛围中学习传统文化。
+          content: \`现代传统手工艺体验将古老技艺与现代教学方法相结合，让参与者在轻松愉快的氛围中学习传统文化。
 
 **体验项目：**
 • **面塑制作**：学习制作传统面塑作品，如十二生肖、戏曲人物等
@@ -425,7 +430,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
    - 合影留念
 
 **预约方式：**
-• **在线预约**：关注"济南传统文化"小程序
+• **在线预约**：关注"济南传统文化\"小程序
 • **电话预约**：0531-8888-7779
 • **现场报名**：曲水亭街体验馆
 
@@ -445,7 +450,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       'old-street-tour': {
         history: {
           title: '历史溯源',
-          content: `济南古街巷承载着千年历史文化，是老济南人生活方式的真实写照。
+          content: \`济南古街巷承载着千年历史文化，是老济南人生活方式的真实写照。
 
 **街巷发展史：**
 • **唐宋奠基**：曲水亭街、王府池子等古街巷初具规模
@@ -461,7 +466,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: `现代古街民俗导览结合历史文化与现代旅游需求，提供深度文化体验。
+          content: \`现代古街民俗导览结合历史文化与现代旅游需求，提供深度文化体验。
 
 **导览内容：**
 • **历史建筑解读**：详细介绍古建筑的历史和特色
@@ -526,10 +531,10 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       'traditional-opera': {
         history: {
           title: '历史溯源',
-          content: `吕剧是山东省的代表性地方戏曲，起源于19世纪中叶的山东东营地区，后传入济南并得到发展。
+          content: \`吕剧是山东省的代表性地方戏曲，起源于19世纪中叶的山东东营地区，后传入济南并得到发展。
 
 **发展历程：**
-• **起源阶段**（1850-1900）：由民间说唱"坐腔扬琴"发展而来
+• **起源阶段**（1850-1900）：由民间说唱"坐腔扬琴\"发展而来
 • **形成时期**（1900-1930）：在济南等地演出，逐渐形成完整的戏曲形式
 • **繁荣阶段**（1930-1960）：涌现出郎咸芬、林建华等著名表演艺术家
 • **传承发展**（1960至今）：被列为国家级非物质文化遗产
@@ -542,7 +547,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: `现代吕剧表演体验将传统戏曲艺术与现代教学相结合，让参与者深度了解这一珍贵的文化遗产。
+          content: \`现代吕剧表演体验将传统戏曲艺术与现代教学相结合，让参与者深度了解这一珍贵的文化遗产。
 
 **体验内容：**
 • **基础唱腔学习**：学习吕剧的基本唱腔和发声技巧
@@ -594,7 +599,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
 **报名方式：**
 • **电话报名**：0531-8888-7782
 • **现场报名**：济南市文化馆一楼大厅
-• **网上报名**：关注"济南吕剧传承"公众号
+• **网上报名**：关注"济南吕剧传承\"公众号
 
 **收费标准：**
 • 体验课：188元/人/次
@@ -631,7 +636,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: `现代齐长城徒步体验将历史文化与户外运动相结合，提供独特的文化旅游体验。
+          content: \`现代齐长城徒步体验将历史文化与户外运动相结合，提供独特的文化旅游体验。
 
 **体验项目：**
 • **历史遗迹徒步**：沿齐长城遗址进行专业徒步
@@ -712,7 +717,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       'ancient-military': {
         history: {
           title: '历史溯源',
-          content: `齐国军事文化是春秋战国时期最为发达的军事体系之一，对后世产生了深远影响。
+          content: \`齐国军事文化是春秋战国时期最为发达的军事体系之一，对后世产生了深远影响。
 
 **军事制度发展：**
 • **春秋时期**：齐桓公改革，建立了完善的军事制度
@@ -731,7 +736,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: `现代古代军事文化体验通过互动式教学，让参与者深入了解齐国军事文明。
+          content: \`现代古代军事文化体验通过互动式教学，让参与者深入了解齐国军事文明。
 
 **体验内容：**
 • **古代兵器制作**：学习制作青铜剑、木制弓箭等
@@ -801,7 +806,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       'beacon-fire': {
         history: {
           title: '历史溯源',
-          content: `烽火台是古代重要的军事通信设施，齐长城沿线的烽火台系统是古代通信技术的杰出代表。
+          content: \`烽火台是古代重要的军事通信设施，齐长城沿线的烽火台系统是古代通信技术的杰出代表。
 
 **发展历史：**
 • **春秋时期**：齐国开始在长城沿线建设烽火台
@@ -820,7 +825,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: `现代烽火台文化节通过情景重现，让参与者体验古代军事通信的神奇魅力。
+          content: \`现代烽火台文化节通过情景重现，让参与者体验古代军事通信的神奇魅力。
 
 **活动内容：**
 • **烽火点燃仪式**：亲手点燃烽火台，体验古代通信
@@ -1132,7 +1137,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
               className="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-3 cursor-pointer"
               onClick={() => setSelectedTheme(theme.id)}
             >
-              <div className={`h-32 bg-gradient-to-br ${theme.color} flex items-center justify-center relative overflow-hidden`}>
+              <div className={\`h-32 bg-gradient-to-br ${theme.color} flex items-center justify-center relative overflow-hidden`}>
                 <div className="text-6xl opacity-20 absolute -top-4 -right-4 transform rotate-12">
                   {theme.icon}
                 </div>
