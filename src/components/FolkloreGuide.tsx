@@ -198,7 +198,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         guide: {
           title: '实操指南',
-          content: \`参与准备：
+          content: `参与准备：
         }
       }
     }
@@ -227,7 +227,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       'spring-tea-ceremony': {
         history: {
           title: '历史溯源',
-          content: \`济南泉水茶艺文化始于唐代，兴盛于宋明时期。济南独特的泉水资源为茶艺文化的发展提供了得天独厚的条件。
+          content: `济南泉水茶艺文化始于唐代，兴盛于宋明时期。济南独特的泉水资源为茶艺文化的发展提供了得天独厚的条件。
 
 发展历程：
 • 唐代起源：茶圣陆羽在《茶经》中提及济南泉水适宜泡茶
@@ -240,7 +240,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: \`现代泉水茶艺体验将传统茶道与济南泉水文化完美结合，形成独具特色的文化体验项目。
+          content: `现代泉水茶艺体验将传统茶道与济南泉水文化完美结合，形成独具特色的文化体验项目。
 
 体验内容：
 • 泉水取水仪式：亲自到名泉取水，了解不同泉水的特点
@@ -258,7 +258,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         guide: {
           title: '实操指南',
-          content: \`活动安排：
+          content: `活动安排：
 • 时长：2-3小时
 • 地点：大明湖茶艺馆、趵突泉茶社
 • 人数：5-20人小班制教学
@@ -310,7 +310,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         experience: {
           title: '当代体验形式',
-          content: \`参与丰富多样的互动游戏，观赏精彩演出，逛市集品美食。
+          content: `参与丰富多样的互动游戏，观赏精彩演出，逛市集品美食。
 
 活动内容：
 • 参与互动游戏：每周六下午 14：30 可到名士阁西侧青泉广场参与 “撒泼大战”“蒙眼递瓜吃瓜大战” 等趣味互动游戏，在欢乐中释放夏日激情，获胜家庭还可获得精美礼品
@@ -322,7 +322,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         },
         guide: {
           title: '实操指南',
-          content: \`活动详情：
+          content: `活动详情：
 • 时间：七月至八月，每日开放，周末活动更丰富
 • 地点：五龙潭公园
 • 季节：夏季为最佳时节
