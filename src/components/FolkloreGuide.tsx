@@ -39,7 +39,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       id: 'spring-ritual',
       title: '泉神祭祀仪式',
       category: '泉水文化民俗',
-      image: 'https://images.pexels.com/photos/8828597/pexels-photo-8828597.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://pic.baike.soso.com/p/20090109/20090109120000-102238.jpg',
       description: '体验传统泉神祭祀仪式，感受济南泉水文化的神圣与庄严',
       location: '趵突泉公园',
       duration: '2小时',
