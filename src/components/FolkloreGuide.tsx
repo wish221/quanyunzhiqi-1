@@ -295,7 +295,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       id: 'street-tour',
       title: '古街citywalk',
       category: '古城老街民俗',
-      image: 'https://images.pexels.com/photos/8828597/pexels-photo-8828597.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://n.sinaimg.cn/sinakd20113/762/w1000h562/20230525/ba96-814fb69e446ec5569624ba8466b8c211.jpg',
       description: '深度游览济南古街巷，了解老济南的民俗风情和历史故事',
       location: '芙蓉街、曲水亭街、王府池子',
       duration: '2小时',
