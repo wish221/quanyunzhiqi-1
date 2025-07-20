@@ -82,12 +82,11 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
 • 人数限制：不定
 • 预约方式：关注 “济南泉水节” 官方小程序，部分活动可在小程序内查看并报名预约;部分现场的互动体验活动，可能在活动现场设置报名点，现场报名参与
 
-活动流程：
-1. 集合签到（8:45-9:00）
-2. 文化背景介绍（9:00-9:15）
-3. 服装更换（9:15-9:30）
-4. 祭祀仪式（9:30-10:30）
-5. 自由体验（10:30-11:00）
+往届资讯：
+1. 2025年：https://www.thepaper.cn/newsDetail_forward_31221029
+2. 2024年：https://news.qq.com/rain/a/20240815A04IZ200
+3. 2023年：https://jinan.iqilu.com/news/2023/0907/5505873.shtml
+4. 2022年：https://gd.huaxia.com/c/2022/09/01/1358068.shtml
 
 收费标准：
 • 基础体验：免费
