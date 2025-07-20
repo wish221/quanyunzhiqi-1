@@ -104,7 +104,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       id: 'spring-tea',
       title: '泉水茶艺体验',
       category: '泉水文化民俗',
-      image: 'https://images.pexels.com/photos/5946080/pexels-photo-5946080.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://img95.699pic.com/photo/50082/6503.jpg_wh300.jpg!/fh/300/quality/90',
       description: '用济南名泉水泡制传统茶艺，品味千年茶文化精髓',
       location: '大明湖茶社',
       duration: '1.5小时',
