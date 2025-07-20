@@ -236,7 +236,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       location: '芙蓉街、曲水亭街',
       duration: '3小时',
       participants: '6-12人',
-      price: '168元/人',
+      price: '不定/人',
       details: {
         history: {
           title: '历史溯源',
@@ -280,9 +280,9 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
 3. 实践制作（90分钟）
 
 收费标准：
-• 单项体验：168元/人
-• 双项组合：298元/人
-• 全项体验：498元/人
+• 剪纸体验：85元/人
+• 团扇diy：40元/人
+• 扎染体验：120元/人
 
 注意事项：
 • 听从老师指导，注意安全
