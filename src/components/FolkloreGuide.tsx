@@ -529,7 +529,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       id: 'beacon-festival',
       title: '烽火台文化节',
       category: '齐长城文化民俗',
-      image: 'https://images.pexels.com/photos/8471888/pexels-photo-8471888.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://photo.sohu.com/37/60/Img205586037.jpg',
       description: '参与烽火台点火仪式，体验古代军事通信文化',
       location: '齐长城烽火台遗址',
       duration: '2小时',
