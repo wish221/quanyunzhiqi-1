@@ -479,10 +479,10 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
     },
     {
       id: 'military-culture',
-      title: '古代军事文化体验',
+      title: '章丘区齐长城文化旅游节',
       category: '齐长城文化民俗',
-      image: 'https://images.pexels.com/photos/8828597/pexels-photo-8828597.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: '体验古代军事训练，学习传统兵器制作和使用',
+      image: 'https://img12.iqilu.com/10339/sucaiku/compress/202209/01/1822ba999d514b22b68d76879a9f66ed.png',
+      description: '千年长城韵，诗画文祖行',
       location: '齐长城文化园',
       duration: '3小时',
       participants: '12-20人',
