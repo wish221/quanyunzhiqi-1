@@ -300,8 +300,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       location: '芙蓉街、曲水亭街、王府池子',
       duration: '2小时',
       participants: '自由决定人数',
-      price: '免费
-        ',
+      price: '免费',
       details: {
         history: {
           title: '历史溯源',
