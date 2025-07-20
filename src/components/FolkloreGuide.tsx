@@ -231,7 +231,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
       id: 'handicraft',
       title: '传统手工艺制作',
       category: '古城老街民俗',
-      image: 'https://images.pexels.com/photos/6195125/pexels-photo-6195125.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://d.ifengimg.com/q70/p0.ifengimg.com/pmop/2017/1127/59E03F42B86A39CF75920CDE292CC11EF5EB78FC_size1168_w5184_h3456.jpeg',
       description: '学习济南传统手工艺，体验面塑、剪纸、糖画等非遗技艺',
       location: '芙蓉街、曲水亭街',
       duration: '3小时',
