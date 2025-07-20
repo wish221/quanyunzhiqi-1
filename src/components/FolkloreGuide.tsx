@@ -527,14 +527,14 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
     },
     {
       id: 'beacon-festival',
-      title: '烽火台文化节',
+      title: '烽火台体验',
       category: '齐长城文化民俗',
       image: 'https://photo.sohu.com/37/60/Img205586037.jpg',
       description: '参与烽火台点火仪式，体验古代军事通信文化',
       location: '齐长城烽火台遗址',
-      duration: '2小时',
-      participants: '20-50人',
-      price: '98元/人',
+      duration: '0.5小时',
+      participants: '不定',
+      price: '免费',
       details: {
         history: {
           title: '历史溯源',
@@ -567,7 +567,7 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
         guide: {
           title: '实操指南',
           content: `参与准备：
-• 年龄要求：8岁以上
+• 年龄要求：无
 • 体力要求：需要爬台阶，适合大部分人群
 • 时间安排：每月第二、四个周六19:00-21:00
 • 人数限制：20-50人
