@@ -356,14 +356,14 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
     },
     {
       id: 'opera-experience',
-      title: '吕剧表演体验',
+      title: '观赏吕剧表演',
       category: '古城老街民俗',
-      image: 'https://images.pexels.com/photos/8471888/pexels-photo-8471888.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: '学习山东地方戏曲吕剧，体验传统戏曲的魅力',
-      location: '济南市吕剧院',
-      duration: '2.5小时',
-      participants: '8-15人',
-      price: '198元/人',
+      image: 'https://n.sinaimg.cn/sinacn/w1000h666/20180202/1e70-fyrcsrx1271386.jpg',
+      description: '观看山东地方戏曲吕剧，体验传统戏曲的魅力',
+      location: '济南市吕剧院、百花洲非遗工坊',
+      duration: '1.5小时',
+      participants: '25人',
+      price: '20-50元/人',
       details: {
         history: {
           title: '历史溯源',
@@ -387,11 +387,10 @@ const FolkloreGuide: React.FC<FolkloreGuideProps> = ({ onBack }) => {
 • 身段表演：学习基本表演动作
 • 化妆体验：体验戏曲化妆艺术
 
-教学特色：
-• 专业演员授课
-• 互动式教学
-• 提供戏服道具
-• 录制表演视频`
+戏剧特色：
+• 唱腔：以 “四平调”“二板”“流水板” 为基本板式，曲调委婉清新、朴实自然，兼具叙事性与抒情性，唱词多用山东方言
+• 伴奏：主奏乐器为坠琴（吕琴），搭配扬琴、二胡、三弦等，音乐风格轻快活泼，既能表现农家生活的诙谐场景，也能演绎悲欢离合的情感故事。
+• 题材：多取材于民间传说、家庭伦理和乡村生活，如婚姻爱情、婆媳关系、邻里趣事等，剧情贴近百姓生活，角色多为农民、小手工业者等普通人物，具有浓厚的乡土气息和现实主义色彩`
         },
         guide: {
           title: '实操指南',
