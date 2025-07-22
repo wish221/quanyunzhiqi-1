@@ -51,7 +51,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       dynasty: '春秋战国',
       description: '齐太公姜子牙受封齐地，建都临淄，开启了齐国800年的辉煌历史',
       content: '详细故事内容待补充...',
-      image: 'https://images.pexels.com/photos/161154/temple-china-chinese-architecture-161154.jpeg?auto=compress&cs=tinysrgb&w=800'
+      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
       id: '2',
@@ -60,7 +60,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       dynasty: '宋元',
       description: '金代设立济南府，济南正式成为重要的政治文化中心',
       content: '详细故事内容待补充...',
-      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800'
+      image: 'https://images.pexels.com/photos/161154/temple-china-chinese-architecture-161154.jpeg?auto=compress&cs=tinysrgb&w=800'
     }
   ];
 
@@ -71,7 +71,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '1084-1155',
       title: '宋代女词人',
       description: '号易安居士，济南章丘人，宋代著名女词人，婉约词派代表',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800',
       stories: ['《声声慢》的创作背景', '与赵明诚的爱情故事', '南渡后的颠沛生活']
     },
     {
@@ -89,7 +89,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '公元前551-479',
       title: '春秋时期思想家',
       description: '名丘，字仲尼，春秋时期鲁国人，儒家学派创始人',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=800',
       stories: ['周游列国的经历', '教育思想的形成', '与济南的历史渊源']
     }
   ];
@@ -414,7 +414,6 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 
         <div className="max-w-6xl mx-auto px-4 py-8">
           <div className="space-y-6">
-            {greatWallStories.map((story, index) => (
               <div key={story.id} className="bg-white rounded-xl shadow-lg overflow-hidden">
                 <div className="flex flex-col md:flex-row">
                   <div className="md:w-1/3">
@@ -453,7 +452,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
             返回主页
           </button>
           <h1 className="text-4xl font-bold text-gray-900">济南故事</h1>
-          <p className="text-xl text-gray-600 mt-2">流动的历史，活着的记忆</p>
+          <p className="text-xl text-gray-600 mt-2">泉涌千年，故事在济南的街巷中流淌着</p>
         </div>
       </div>
 
