@@ -51,7 +51,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       dynasty: '春秋战国',
       description: '齐太公姜子牙受封齐地，建都临淄，开启了齐国800年的辉煌历史',
       content: '详细故事内容待补充...',
-      image: '/images/107dc429b50fa05c235432d21ac07ea.png'
+      image: 'https://images.pexels.com/photos/161154/temple-china-chinese-architecture-161154.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
       id: '2',
@@ -60,7 +60,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       dynasty: '宋元',
       description: '金代设立济南府，济南正式成为重要的政治文化中心',
       content: '详细故事内容待补充...',
-      image: '/images/107dc429b50fa05c235432d21ac07ea.png'
+      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800'
     }
   ];
 
@@ -71,7 +71,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '1084-1155',
       title: '宋代女词人',
       description: '号易安居士，济南章丘人，宋代著名女词人，婉约词派代表',
-      image: '/images/5ade9a4c426e1195338e59ec226d58f.png',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       stories: ['《声声慢》的创作背景', '与赵明诚的爱情故事', '南渡后的颠沛生活']
     },
     {
@@ -80,7 +80,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '1140-1207',
       title: '南宋豪放派词人',
       description: '字幼安，号稼轩，济南历城人，南宋豪放派词人，抗金英雄',
-      image: '/images/5ade9a4c426e1195338e59ec226d58f.png',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       stories: ['青年时期的抗金经历', '《青玉案·元夕》的创作', '晚年的田园生活']
     },
     {
@@ -89,7 +89,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '公元前551-479',
       title: '春秋时期思想家',
       description: '名丘，字仲尼，春秋时期鲁国人，儒家学派创始人',
-      image: '/images/5ade9a4c426e1195338e59ec226d58f.png',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       stories: ['周游列国的经历', '教育思想的形成', '与济南的历史渊源']
     }
   ];
@@ -100,7 +100,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '趵突泉',
       title: '天下第一泉的传说',
       description: '相传趵突泉是龙王的三个儿子化身而成',
-      image: '/images/91bd5551087c7221a74800e6e7314f5.png',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '详细传说内容待补充...'
     },
     {
@@ -108,7 +108,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '黑虎泉',
       title: '黑虎救泉的故事',
       description: '传说有黑虎卧于泉边，保护泉水不被污染',
-      image: '/images/91bd5551087c7221a74800e6e7314f5.png',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '详细传说内容待补充...'
     }
   ];
@@ -119,14 +119,14 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       title: '齐长城的修建',
       period: '春秋战国时期',
       description: '齐国为防御楚、鲁等国入侵而修建的军事防御工程',
-      image: '/images/91bd5551087c7221a74800e6e7314f5.png'
+      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
       id: '2',
       title: '孟姜女哭长城',
       period: '秦代传说',
       description: '虽然传说发生在秦长城，但在齐长城也有相似的民间故事',
-      image: '/images/91bd5551087c7221a74800e6e7314f5.png'
+      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800'
     }
   ];
 
@@ -466,7 +466,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/107dc429b50fa05c235432d21ac07ea.png" 
+                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
                 alt="历史长廊" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -495,7 +495,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
+                src="/images/91bd5551087c7221a74800e6e7314f5.png" 
                 alt="名士风流" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -524,7 +524,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/91bd5551087c7221a74800e6e7314f5.png" 
+                src="/images/107dc429b50fa05c235432d21ac07ea.png" 
                 alt="泉城记忆" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -553,7 +553,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/91bd5551087c7221a74800e6e7314f5.png" 
+                src="https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800" 
                 alt="长城往事" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -574,7 +574,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
               </button>
             </div>
           </div>
-        </div>
+        <p className="text-xl text-gray-600 mt-2">泉涌千年，故事在济南的街巷中流淌着</p>
       </div>
     </div>
   );
