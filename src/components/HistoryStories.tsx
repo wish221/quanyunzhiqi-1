@@ -414,6 +414,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 
         <div className="max-w-6xl mx-auto px-4 py-8">
           <div className="space-y-6">
+            {greatWallStories.map((story, index) => (
               <div key={story.id} className="bg-white rounded-xl shadow-lg overflow-hidden">
                 <div className="flex flex-col md:flex-row">
                   <div className="md:w-1/3">
