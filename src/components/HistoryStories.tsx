@@ -574,6 +574,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
               </button>
             </div>
           </div>
+        </div>
         <p className="text-xl text-gray-600 mt-2">泉涌千年，故事在济南的街巷中流淌着</p>
       </div>
     </div>
