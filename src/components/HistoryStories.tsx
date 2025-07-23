@@ -93,7 +93,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 李清照的一生可分为前后两期：前期生活优裕，与丈夫赵明诚伉俪情深，共同致力于金石书画的搜集整理，词风清新婉丽；后期因金兵入侵，国破家亡，丈夫病逝，词风转为沉郁凄婉。代表作有《声声慢》《如梦令》《一剪梅》等，被誉为"千古第一才女"。
 
 她不仅在文学创作上成就卓著，还在文学理论方面有重要贡献，提出了词"别是一家"的理论，对后世词学发展产生了深远影响。李清照的作品情真意切，语言清丽，充分体现了女性独特的情感体验和审美情趣。`,
-      image: '/a031664e9351f4797b88c721753533b.png',
+      image: 'https://www.qiwenya.com/uploads/allimg/230222/2_230222111402_1.jpg',
       stories: ['《声声慢》的创作背景', '与赵明诚的爱情故事', '南渡后的颠沛生活']
     },
     {
@@ -119,7 +119,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 孔子一生致力于恢复周礼，主张"仁政"，提出了"仁、义、礼、智、信"等核心思想。他创办私学，有教无类，培养了三千弟子，其中贤者七十二人。孔子整理了《诗》《书》《礼》《易》《乐》《春秋》等典籍，为中华文化的传承做出了巨大贡献。
 
 孔子的思想不仅影响了中国两千多年的历史，也传播到世界各地。在济南地区，孔子文化的影响尤为深远，历代都有众多学者研习儒学，济南也因此成为重要的文化教育中心。孔子的"有朋自远方来，不亦乐乎"等名言，至今仍是中华民族待客之道的体现。`,
-      image: '/images/91bd5551087c7221a74800e6e7314f5.png',
+      image: 'https://www.kzbwg.cn/d/file/zhanlan/jbcl/wisdom/ww/2020-06-11/f568a0676260d15198469def14a090d3.jpg',
       stories: ['周游列国的经历', '教育思想的形成', '与济南的历史渊源']
     }
   ];
@@ -437,7 +437,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
             <img 
-              src="/91bd5551087c7221a74800e6e7314f5.png" 
+              src="image/91bd5551087c7221a74800e6e7314f5.png" 
               alt="名士风流背景" 
               className="w-full h-full object-cover opacity-20"
             />
