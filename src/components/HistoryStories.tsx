@@ -427,7 +427,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 
         <div className="max-w-6xl mx-auto px-4 py-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {allSpringSories.map((spring) => (
+            {springSories.map((spring) => (
               <div
                 key={spring.id}
                 className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow cursor-pointer group"
