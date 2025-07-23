@@ -130,7 +130,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '趵突泉',
       title: '天下第一泉的传说',
       description: '相传趵突泉是龙王的三个儿子化身而成',
-      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '相传很久以前，济南大旱三年，民不聊生。东海龙王得知后，派遣三个儿子前来济南救民于水火。三位龙子到达济南后，化身为三股清泉，日夜不停地向上喷涌，为百姓提供甘甜的泉水。因为泉水喷涌时发出"趵突"的声音，故名趵突泉。泉水清澈甘甜，冬暖夏凉，被誉为"天下第一泉"。'
     },
     {
@@ -138,7 +138,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '黑虎泉',
       title: '黑虎救泉的故事',
       description: '传说有黑虎卧于泉边，保护泉水不被污染',
-      image: 'https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '传说古时候，有一只神虎守护着这眼泉水。每当有人想要污染泉水或者破坏泉池时，黑虎就会现身阻止。泉水从虎头形状的石雕中喷涌而出，声如虎啸，故名黑虎泉。当地人相信，只要黑虎还在守护，泉水就永远不会干涸，济南的泉水文化也会世代传承下去。'
     },
     {
@@ -146,7 +146,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '大明湖',
       title: '大明湖的形成传说',
       description: '众泉汇聚而成的天然湖泊，有着"四面荷花三面柳"的美景',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '大明湖并非天然湖泊，而是由众多泉水汇聚而成。相传在很久以前，济南的泉水过于丰沛，经常泛滥成灾。为了治理水患，古人在城北挖掘了一个巨大的湖泊，让众泉之水汇聚于此。湖水清澈如镜，四周种植荷花和垂柳，形成了"四面荷花三面柳，一城山色半城湖"的绝美景色。湖中还有历下亭、汇泉堂等古迹，文人墨客常在此吟诗作赋。'
     },
     {
@@ -154,7 +154,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '珍珠泉',
       title: '珍珠泉的神奇传说',
       description: '泉水中冒出的气泡如珍珠般晶莹剔透',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '传说古时有一位美丽的仙女，因为思念人间的恋人，每日以泪洗面。她的眼泪滴落人间，化作了这眼清泉。泉水中不断冒出的气泡，就是仙女思念的眼泪化成的珍珠。当地人说，如果你在泉边许愿，泉水中的"珍珠"会帮你实现愿望。因此珍珠泉也被称为"许愿泉"，吸引了无数有情人前来祈福。'
     },
     {
@@ -162,7 +162,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '五龙潭',
       title: '五龙治水的传说',
       description: '五条神龙共同治理水患，造福济南百姓',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '相传古时济南水患频发，玉皇大帝派遣五条神龙前来治水。五龙各司其职：青龙主东方，掌管春水；白龙主西方，掌管秋水；红龙主南方，掌管夏水；黑龙主北方，掌管冬水；黄龙居中央，统领四方。五龙合力，终于制服了水患，并在此地留下了五个相连的泉池，就是今天的五龙潭。每个泉池都有不同的特色，象征着五龙的不同神力。'
     },
     {
@@ -170,7 +170,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '百脉泉',
       title: '百脉泉的奇观传说',
       description: '泉底涌出无数水脉，如同大地的血管',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '传说大地之母为了滋养济南这片土地，在地下布下了无数条水脉，就像人体的血管一样。百脉泉就是这些水脉的汇聚点，泉底可以看到无数条细小的水流涌出，形成了"百脉寒泉珍珠滚"的奇观。古人认为，百脉泉是大地的心脏，只要它还在跳动，济南就会永远充满生机。'
     },
     {
@@ -178,7 +178,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '漱玉泉',
       title: '李清照与漱玉泉',
       description: '女词人李清照常在此漱口洗玉，因此得名',
-      image: 'https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '相传宋代女词人李清照居住在济南时，经常到这眼泉水边洗漱。泉水清澈甘甜，李清照用它漱口后，觉得口齿留香，诗思泉涌。她常常在泉边吟诗作词，创作了许多传世佳作。后人为了纪念这位才女，将此泉命名为"漱玉泉"，寓意泉水如玉般纯净，能够洗涤心灵，启发诗意。'
     },
     {
@@ -186,7 +186,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '金线泉',
       title: '金线泉的神奇现象',
       description: '泉水中出现金色线条，如同天然的艺术品',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '传说古时有一位织女下凡，在济南与一位书生相恋。为了表达爱意，织女将自己的金丝带投入泉中，化作了一条条金色的水线。这些金线在阳光照射下闪闪发光，美不胜收。后来织女被召回天庭，但她的金线永远留在了泉中，成为了爱情忠贞的象征。人们说，如果能在金线泉中看到完整的金线，就会获得美满的爱情。'
     }
   ];
