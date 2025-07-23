@@ -198,7 +198,23 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '春秋战国时期',
       description: '齐国为防御楚、鲁等国入侵而修建的军事防御工程',
       image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800',
-      content: '春秋战国时期，齐国为了抵御南方楚国和西南鲁国的入侵，开始修建长城。这是中国历史上最早的长城建设工程，比秦长城早了400多年。'
+      content: `齐长城是中国历史上最早的长城，始建于春秋时期的齐国，比著名的秦长城还要早400多年，堪称"长城之父"。
+
+**修建背景**
+春秋时期，诸侯争霸，战争频繁。齐国地处山东半岛，虽然经济发达，但面临着来自南方楚国和西南鲁国的军事威胁。特别是楚国，国力强盛，不断向北扩张，对齐国构成了严重威胁。为了保卫国土安全，齐国君主决定修建一道坚固的防御工程。
+
+**修建过程**
+齐长城的修建始于齐桓公时期（公元前7世纪），历经数代君主，断断续续修建了200多年才基本完成。长城西起黄河，东至黄海，全长约1000多公里，横贯整个山东省。
+
+修建过程中，齐国动员了大量人力物力。据史料记载，参与修建的民工多达数十万人，包括农民、工匠、士兵等各个阶层。长城主要利用山脊、河流等天然屏障，在关键地段修建城墙、关隘和烽火台。
+
+**工程特色**
+齐长城因地制宜，充分利用了山东的地形特点。在山区，长城沿着山脊修建，利用险峻的地势增强防御能力；在平原地区，则挖掘壕沟，堆筑土墙。长城上设置了众多关隘，如锦阳关、穆陵关等，这些关隘不仅是军事要塞，也是重要的交通枢纽。
+
+**历史意义**
+齐长城的修建，不仅有效地保卫了齐国的安全，也促进了齐国经济文化的发展。长城沿线逐渐形成了许多城镇，成为重要的商贸中心。同时，齐长城的修建技术和防御理念，为后来秦始皇修建万里长城提供了宝贵经验。
+
+齐长城虽然历经两千多年的风雨侵蚀，但至今仍有许多段落保存完好，成为研究中国古代军事工程和齐国历史的重要实物资料。`
     },
     {
       id: '2',
@@ -206,7 +222,24 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '秦代传说',
       description: '虽然传说发生在秦长城，但在齐长城也有相似的民间故事',
       image: 'https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=800',
-      content: '在齐长城沿线，也流传着类似孟姜女哭长城的故事。当地人说，长城的修建需要大量劳力，许多家庭因此妻离子散，留下了无数悲伤的传说。'
+      content: `孟姜女哭长城的故事虽然最著名的版本发生在秦长城，但在齐长城沿线，也流传着许多类似的悲伤传说，反映了古代大型工程建设给普通百姓带来的痛苦。
+
+**齐长城版本的传说**
+在济南长清区的齐长城遗址附近，当地人世代流传着这样一个故事：春秋时期，有一位名叫秋香的女子，新婚不久丈夫就被征调去修建齐长城。秋香日夜思念丈夫，经常登上村后的小山，向着长城的方向眺望。
+
+一年过去了，两年过去了，丈夫始终没有音信。秋香决定亲自去长城寻找丈夫。她跋山涉水，历尽艰辛，终于来到了长城工地。然而，监工告诉她，她的丈夫早已因为劳累过度而死去，尸体就埋在长城脚下。
+
+秋香听到这个消息，悲痛欲绝，抱着长城痛哭。她的眼泪如泉水般涌出，哭声震天动地，连山石都为之动容。传说她哭了三天三夜，长城的一段城墙竟然被她的眼泪冲塌了，露出了丈夫的尸骨。
+
+**历史背景**
+这些传说虽然带有神话色彩，但反映了真实的历史背景。齐长城的修建确实需要大量劳动力，据史料记载，仅齐桓公时期就征调了数十万民工。这些民工大多是农民，他们被迫离开家乡，在恶劣的条件下从事繁重的体力劳动。
+
+由于工程浩大，工期漫长，加上当时医疗条件落后，许多民工因为劳累、疾病、意外事故等原因死在工地上。他们的家属往往得不到任何消息，只能在家中苦苦等待，这种痛苦的经历成为了民间传说的素材。
+
+**文化意义**
+孟姜女哭长城的故事，无论是秦长城版本还是齐长城版本，都体现了中国古代人民对和平生活的向往，对战争和徭役的控诉。这些故事代代相传，成为中华民族文化记忆的重要组成部分，提醒人们珍惜和平，关爱生命。
+
+在齐长城沿线的许多村庄，至今还保留着纪念这些故事的习俗和遗迹，成为当地重要的文化遗产。`
     },
     {
       id: '3',
@@ -214,7 +247,28 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '春秋战国时期',
       description: '齐长城重要关隘，见证了无数历史风云',
       image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
-      content: '锦阳关是齐长城上的重要关隘，扼守着齐鲁两国的交通要道。这里发生过无数次战斗，也见证了和平时期的商贸往来。'
+      content: `锦阳关是齐长城上最重要的关隘之一，位于今济南市长清区，地势险要，自古就是兵家必争之地。这里不仅见证了春秋战国的烽火岁月，也承载着丰富的历史文化内涵。
+
+**地理位置与战略意义**
+锦阳关位于泰山余脉的一处山口，南北两侧都是高山峻岭，只有中间一条狭窄的通道可以通行。这里是齐国通往鲁国和楚国的重要通道，也是中原地区进入齐国的门户。古人云："得锦阳关者得齐鲁"，足见其战略地位的重要。
+
+关隘建在山口最窄处，两侧山峰高耸，形成天然屏障。关城依山而建，城墙高大坚固，设有多道关门，易守难攻。关城内设有兵营、粮仓、武器库等军事设施，可以驻扎数千名士兵。
+
+**历史上的重要战役**
+春秋时期，锦阳关曾发生过多次重要战役。最著名的是齐桓公时期的"锦阳关大战"。当时楚国大军北上，企图攻占齐国。齐军在锦阳关设伏，利用地形优势，以少胜多，大败楚军，保卫了齐国的安全。
+
+战国时期，随着各国争霸的加剧，锦阳关的战略地位更加突出。齐、鲁、楚三国围绕这一关隘展开了激烈争夺。关隘几度易手，每次争夺都伴随着惨烈的战斗。
+
+**和平时期的繁荣**
+在和平时期，锦阳关又成为重要的商贸通道。来自中原、江南的商人通过这里进入齐国，齐国的丝绸、盐铁等商品也通过这里销往各地。关隘附近逐渐形成了繁华的集市，商贾云集，十分热闹。
+
+关隘还是文化交流的重要通道。各国的学者、艺人、工匠通过这里互相往来，促进了文化的交流与融合。许多文化名人都曾经过锦阳关，留下了珍贵的诗文和传说。
+
+**民间传说**
+关于锦阳关，民间流传着许多动人的传说。其中最著名的是"锦阳关的守关将军"的故事。传说有一位名叫李锦阳的将军，世代守卫此关。他武艺高强，忠诚勇敢，多次击退敌军的进攻。后来，人们为了纪念他，将此关命名为"锦阳关"。
+
+**现状与保护**
+如今的锦阳关虽然已经失去了军事功能，但作为重要的历史文化遗址，得到了很好的保护和开发。关隘的城墙、关门等建筑得到了修复，成为人们了解齐长城历史的重要窗口。每年都有大量游客和学者前来参观考察，感受这里深厚的历史文化底蕴。`
     }
   ];
 
@@ -332,17 +386,25 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
   if (activeSection === 'history') {
     return (
       <div className="min-h-screen bg-gray-50">
-        <div className="bg-white shadow-sm">
+        <div className="relative bg-white shadow-sm">
+          <div className="absolute inset-0">
+            <img 
+              src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
+              alt="历史长廊背景" 
+              className="w-full h-full object-cover opacity-20"
+            />
+            <div className="absolute inset-0 bg-white bg-opacity-80"></div>
+          </div>
           <div className="max-w-6xl mx-auto px-4 py-6">
             <button
               onClick={() => setActiveSection(null)}
-              className="flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
+              className="relative flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
             >
               <ArrowLeft className="w-5 h-5 mr-2" />
               返回济南故事
             </button>
-            <h1 className="text-3xl font-bold text-gray-900">历史长廊</h1>
-            <p className="text-gray-600 mt-2">千年春秋，见证济南历史变迁</p>
+            <h1 className="relative text-3xl font-bold text-gray-900">历史长廊</h1>
+            <p className="relative text-gray-600 mt-2">千年春秋，见证济南历史变迁</p>
           </div>
         </div>
 
@@ -396,17 +458,25 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
   if (activeSection === 'celebrities') {
     return (
       <div className="min-h-screen bg-gray-50">
-        <div className="bg-white shadow-sm">
+        <div className="relative bg-white shadow-sm">
+          <div className="absolute inset-0">
+            <img 
+              src="/images/91bd5551087c7221a74800e6e7314f5.png" 
+              alt="名士风流背景" 
+              className="w-full h-full object-cover opacity-20"
+            />
+            <div className="absolute inset-0 bg-white bg-opacity-80"></div>
+          </div>
           <div className="max-w-6xl mx-auto px-4 py-6">
             <button
               onClick={() => setActiveSection(null)}
-              className="flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
+              className="relative flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
             >
               <ArrowLeft className="w-5 h-5 mr-2" />
               返回济南故事
             </button>
-            <h1 className="text-3xl font-bold text-gray-900">名士风流</h1>
-            <p className="text-gray-600 mt-2">探访名士，感受文人风骨</p>
+            <h1 className="relative text-3xl font-bold text-gray-900">名士风流</h1>
+            <p className="relative text-gray-600 mt-2">探访名士，感受文人风骨</p>
           </div>
         </div>
 
@@ -441,17 +511,25 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
   if (activeSection === 'springs') {
     return (
       <div className="min-h-screen bg-gray-50">
-        <div className="bg-white shadow-sm">
+        <div className="relative bg-white shadow-sm">
+          <div className="absolute inset-0">
+            <img 
+              src="/images/107dc429b50fa05c235432d21ac07ea.png" 
+              alt="泉城记忆背景" 
+              className="w-full h-full object-cover opacity-20"
+            />
+            <div className="absolute inset-0 bg-white bg-opacity-80"></div>
+          </div>
           <div className="max-w-6xl mx-auto px-4 py-6">
             <button
               onClick={() => setActiveSection(null)}
-              className="flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
+              className="relative flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
             >
               <ArrowLeft className="w-5 h-5 mr-2" />
               返回济南故事
             </button>
-            <h1 className="text-3xl font-bold text-gray-900">泉城记忆</h1>
-            <p className="text-gray-600 mt-2">泉韵往事，聆听泉水的故事</p>
+            <h1 className="relative text-3xl font-bold text-gray-900">泉城记忆</h1>
+            <p className="relative text-gray-600 mt-2">泉韵往事，聆听泉水的故事</p>
           </div>
         </div>
 
@@ -490,24 +568,36 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
   if (activeSection === 'greatwall') {
     return (
       <div className="min-h-screen bg-gray-50">
-        <div className="bg-white shadow-sm">
+        <div className="relative bg-white shadow-sm">
+          <div className="absolute inset-0">
+            <img 
+              src="/images/107dc429b50fa05c235432d21ac07ea.png" 
+              alt="长城往事背景" 
+              className="w-full h-full object-cover opacity-20"
+            />
+            <div className="absolute inset-0 bg-white bg-opacity-80"></div>
+          </div>
           <div className="max-w-6xl mx-auto px-4 py-6">
             <button
               onClick={() => setActiveSection(null)}
-              className="flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
+              className="relative flex items-center text-blue-600 hover:text-blue-800 transition-colors mb-4"
             >
               <ArrowLeft className="w-5 h-5 mr-2" />
               返回济南故事
             </button>
-            <h1 className="text-3xl font-bold text-gray-900">长城往事</h1>
-            <p className="text-gray-600 mt-2">齐边风云，追忆长城岁月</p>
+            <h1 className="relative text-3xl font-bold text-gray-900">长城往事</h1>
+            <p className="relative text-gray-600 mt-2">齐边风云，追忆长城岁月</p>
           </div>
         </div>
 
         <div className="max-w-6xl mx-auto px-4 py-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {greatWallStories.map((story, index) => (
-              <div key={story.id} className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+              <div 
+                key={story.id} 
+                className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow cursor-pointer"
+                onClick={() => setSelectedStory(story)}
+              >
                 <div className="relative h-48">
                   <img src={story.image} alt={story.title} className="w-full h-full object-cover" />
                   <div className="absolute top-4 left-4">
@@ -523,6 +613,10 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
                     <Clock className="w-4 h-4 mr-1" />
                     {story.period}
                   </div>
+                  <button className="mt-3 text-blue-600 font-semibold hover:text-blue-800 transition-colors flex items-center gap-2 text-sm">
+                    了解详情
+                    <span className="transition-transform duration-300">→</span>
+                  </button>
                 </div>
               </div>
             ))}
@@ -557,7 +651,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/107dc429b50fa05c235432d21ac07ea.png" 
+                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
                 alt="历史长廊" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -615,7 +709,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
+                src="/images/107dc429b50fa05c235432d21ac07ea.png" 
                 alt="泉城记忆" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -644,7 +738,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
                 alt="长城往事" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
