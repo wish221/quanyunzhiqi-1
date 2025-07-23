@@ -437,7 +437,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
             <img 
-              src="image/91bd5551087c7221a74800e6e7314f5.png" 
+              src="https://www.kzbwg.cn/d/file/zhanlan/jbcl/wisdom/ww/2020-06-11/f568a0676260d15198469def14a090d3.jpg" 
               alt="名士风流背景" 
               className="w-full h-full object-cover opacity-20"
             />
