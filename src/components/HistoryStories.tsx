@@ -78,7 +78,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 济南府的设立带来了深远的影响。在政治上，济南成为山东地区的重要行政中心之一，府衙的设立吸引了大量官员和文人聚集；在经济上，作为府级城市，济南的商业贸易更加繁荣，手工业也得到发展；在文化上，府学的建立促进了教育事业的发展，培养了大批人才。
 
 此后，无论是元代、明代还是清代，济南府的建制基本得以延续，济南也逐渐发展成为山东省的重要城市。可以说，金代济南府的设立，为济南后来成为山东省会奠定了重要的历史基础。`,
-      image: '/images/107dc429b50fa05c235432d21ac07ea.png'
+      image: '/70feac9468428807643a436a5b93ff9.png'
     }
   ];
 
@@ -93,7 +93,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 李清照的一生可分为前后两期：前期生活优裕，与丈夫赵明诚伉俪情深，共同致力于金石书画的搜集整理，词风清新婉丽；后期因金兵入侵，国破家亡，丈夫病逝，词风转为沉郁凄婉。代表作有《声声慢》《如梦令》《一剪梅》等，被誉为"千古第一才女"。
 
 她不仅在文学创作上成就卓著，还在文学理论方面有重要贡献，提出了词"别是一家"的理论，对后世词学发展产生了深远影响。李清照的作品情真意切，语言清丽，充分体现了女性独特的情感体验和审美情趣。`,
-      image: '/images/5ade9a4c426e1195338e59ec226d58f.png',
+      image: '/a031664e9351f4797b88c721753533b.png',
       stories: ['《声声慢》的创作背景', '与赵明诚的爱情故事', '南渡后的颠沛生活']
     },
     {
@@ -106,7 +106,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 辛弃疾是豪放派词人的杰出代表，其词作气势磅礴，意境雄阔，充满爱国激情和英雄气概。他善于化用典故，语言生动活泼，既有"醉里挑灯看剑，梦回吹角连营"的豪迈，也有"众里寻他千百度，蓦然回首，那人却在，灯火阑珊处"的深情。
 
 除了文学成就，辛弃疾还是一位杰出的军事家和政治家。他在任职期间，积极整顿军务，训练军队，为抗金复国做了大量准备工作。虽然壮志未酬，但其爱国精神和文学成就永远激励着后人。现存词作600多首，是两宋词人中存词最多者。`,
-      image: '/images/5ade9a4c426e1195338e59ec226d58f.png',
+      image: '/5ade9a4c426e1195338e59ec226d58f.png',
       stories: ['青年时期的抗金经历', '《青玉案·元夕》的创作', '晚年的田园生活']
     },
     {
@@ -215,7 +215,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 齐长城的修建，不仅有效地保卫了齐国的安全，也促进了齐国经济文化的发展。长城沿线逐渐形成了许多城镇，成为重要的商贸中心。同时，齐长城的修建技术和防御理念，为后来秦始皇修建万里长城提供了宝贵经验。
 
 齐长城虽然历经两千多年的风雨侵蚀，但至今仍有许多段落保存完好，成为研究中国古代军事工程和齐国历史的重要实物资料。`
-    },
+      image: '/70feac9468428807643a436a5b93ff9.png'
     {
       id: '2',
       title: '锦阳关的传说',
@@ -364,7 +364,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
             <img 
-              src="/5ade9a4c426e1195338e59ec226d58f.png" 
+              src="/70feac9468428807643a436a5b93ff9.png" 
               alt="历史长廊背景" 
               className="w-full h-full object-cover opacity-20"
             />
@@ -626,7 +626,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/5ade9a4c426e1195338e59ec226d58f.png" 
+                src="/70feac9468428807643a436a5b93ff9.png" 
                 alt="历史长廊" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
