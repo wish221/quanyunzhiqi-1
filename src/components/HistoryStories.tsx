@@ -197,7 +197,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       title: '齐长城的修建',
       period: '春秋战国时期',
       description: '齐国为防御楚、鲁等国入侵而修建的军事防御工程',
-      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://img12.iqilu.com/10339/sucaiku/compress/202209/01/1822ba999d514b22b68d76879a9f66ed.png',
       content: `齐长城是中国历史上最早的长城，始建于春秋时期的齐国，比著名的秦长城还要早400多年，堪称"长城之父"。
 
 **修建背景**
@@ -218,35 +218,10 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
     },
     {
       id: '2',
-      title: '孟姜女哭长城',
-      period: '秦代传说',
-      description: '虽然传说发生在秦长城，但在齐长城也有相似的民间故事',
-      image: 'https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=800',
-      content: `孟姜女哭长城的故事虽然最著名的版本发生在秦长城，但在齐长城沿线，也流传着许多类似的悲伤传说，反映了古代大型工程建设给普通百姓带来的痛苦。
-
-**齐长城版本的传说**
-在济南长清区的齐长城遗址附近，当地人世代流传着这样一个故事：春秋时期，有一位名叫秋香的女子，新婚不久丈夫就被征调去修建齐长城。秋香日夜思念丈夫，经常登上村后的小山，向着长城的方向眺望。
-
-一年过去了，两年过去了，丈夫始终没有音信。秋香决定亲自去长城寻找丈夫。她跋山涉水，历尽艰辛，终于来到了长城工地。然而，监工告诉她，她的丈夫早已因为劳累过度而死去，尸体就埋在长城脚下。
-
-秋香听到这个消息，悲痛欲绝，抱着长城痛哭。她的眼泪如泉水般涌出，哭声震天动地，连山石都为之动容。传说她哭了三天三夜，长城的一段城墙竟然被她的眼泪冲塌了，露出了丈夫的尸骨。
-
-**历史背景**
-这些传说虽然带有神话色彩，但反映了真实的历史背景。齐长城的修建确实需要大量劳动力，据史料记载，仅齐桓公时期就征调了数十万民工。这些民工大多是农民，他们被迫离开家乡，在恶劣的条件下从事繁重的体力劳动。
-
-由于工程浩大，工期漫长，加上当时医疗条件落后，许多民工因为劳累、疾病、意外事故等原因死在工地上。他们的家属往往得不到任何消息，只能在家中苦苦等待，这种痛苦的经历成为了民间传说的素材。
-
-**文化意义**
-孟姜女哭长城的故事，无论是秦长城版本还是齐长城版本，都体现了中国古代人民对和平生活的向往，对战争和徭役的控诉。这些故事代代相传，成为中华民族文化记忆的重要组成部分，提醒人们珍惜和平，关爱生命。
-
-在齐长城沿线的许多村庄，至今还保留着纪念这些故事的习俗和遗迹，成为当地重要的文化遗产。`
-    },
-    {
-      id: '3',
       title: '锦阳关的传说',
       period: '春秋战国时期',
       description: '齐长城重要关隘，见证了无数历史风云',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://img.pconline.com.cn/images/upload/upc/tx/itbbs/1905/03/c17/145881581_1556891100352_mthumb.jpg',
       content: `锦阳关是齐长城上最重要的关隘之一，位于今济南市长清区，地势险要，自古就是兵家必争之地。这里不仅见证了春秋战国的烽火岁月，也承载着丰富的历史文化内涵。
 
 **地理位置与战略意义**
@@ -389,7 +364,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
             <img 
-              src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
+              src="/5ade9a4c426e1195338e59ec226d58f.png" 
               alt="历史长廊背景" 
               className="w-full h-full object-cover opacity-20"
             />
@@ -461,7 +436,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
             <img 
-              src="/images/91bd5551087c7221a74800e6e7314f5.png" 
+              src="/91bd5551087c7221a74800e6e7314f5.png" 
               alt="名士风流背景" 
               className="w-full h-full object-cover opacity-20"
             />
@@ -514,7 +489,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
             <img 
-              src="/images/107dc429b50fa05c235432d21ac07ea.png" 
+              src="https://pic.baike.soso.com/p/20090109/20090109120000-102238.jpg" 
               alt="泉城记忆背景" 
               className="w-full h-full object-cover opacity-20"
             />
@@ -571,7 +546,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
             <img 
-              src="/images/107dc429b50fa05c235432d21ac07ea.png" 
+              src="https://img12.iqilu.com/10339/sucaiku/compress/202209/01/1822ba999d514b22b68d76879a9f66ed.png" 
               alt="长城往事背景" 
               className="w-full h-full object-cover opacity-20"
             />
@@ -651,7 +626,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
+                src="/5ade9a4c426e1195338e59ec226d58f.png" 
                 alt="历史长廊" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -680,7 +655,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/91bd5551087c7221a74800e6e7314f5.png" 
+                src="/91bd5551087c7221a74800e6e7314f5.png" 
                 alt="名士风流" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -709,7 +684,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/107dc429b50fa05c235432d21ac07ea.png" 
+                src="https://pic.baike.soso.com/p/20090109/20090109120000-102238.jpg" 
                 alt="泉城记忆" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -738,7 +713,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
+                src="https://img12.iqilu.com/10339/sucaiku/compress/202209/01/1822ba999d514b22b68d76879a9f66ed.png" 
                 alt="长城往事" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
