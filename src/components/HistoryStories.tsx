@@ -364,8 +364,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       <div className="min-h-screen bg-gray-50">
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
-            <img 
-              src="https://x0.ifengimg.com/ucms/2021_06/F1A140C44D3AF6AB230D1644F89CFB8FAB083002_size203_w1000_h666.jpg" 
+            <img src="https://x0.ifengimg.com/ucms/2021_06/F1A140C44D3AF6AB230D1644F89CFB8FAB083002_size203_w1000_h666.jpg" 
               alt="历史长廊背景" 
               className="w-full h-full object-cover opacity-20"
             />
