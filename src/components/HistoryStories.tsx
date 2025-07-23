@@ -158,6 +158,22 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       description: '泉水中出现金色线条，如同天然的艺术品',
       image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
       legend: '传说古时有一位织女下凡，在济南与一位书生相恋。为了表达爱意，织女将自己的金丝带投入泉中，化作了一条条金色的水线。这些金线在阳光照射下闪闪发光，美不胜收。后来织女被召回天庭，但她的金线永远留在了泉中，成为了爱情忠贞的象征。人们说，如果能在金线泉中看到完整的金线，就会获得美满的爱情。'
+    },
+    {
+      id: '9',
+      springName: '月牙泉',
+      title: '月牙泉的浪漫传说',
+      description: '泉池形如弯月，传说是嫦娥遗落人间的明镜',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      legend: '相传古时，嫦娥在月宫中思念人间，每夜对镜梳妆时都会流下思乡的眼泪。一日，她的明镜不慎跌落人间，化作了这眼形如弯月的清泉。泉水清澈如镜，能够倒映天上的明月，因此得名月牙泉。当地人说，在月圆之夜到月牙泉边许愿，嫦娥会听到你的心声，帮你实现美好的愿望。许多有情人都会在此许下永恒的誓言。'
+    },
+    {
+      id: '10',
+      springName: '天镜泉',
+      title: '天镜泉的神奇传说',
+      description: '泉水如镜，能够映照天地万物，传说具有预知未来的神力',
+      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      legend: '传说天镜泉是天帝的一面神镜，能够洞察世间万物。古时有一位道士在此修炼，发现泉水不仅清澈见底，还能映照出未来的景象。他通过观察泉水中的倒影，预测天气变化，指导农民耕种，因此被当地人奉为神人。后来道士羽化登仙，但神镜留在了人间，成为了这眼神奇的天镜泉。人们相信，心诚的人在泉边静心观看，能够看到自己的未来。'
     }
   ];
 
@@ -527,7 +543,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/161154/temple-china-chinese-architecture-161154.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/images/107dc429b50fa05c235432d21ac07ea.png" 
                 alt="历史长廊" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -556,7 +572,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
                 alt="名士风流" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -585,7 +601,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/images/91bd5551087c7221a74800e6e7314f5.png" 
                 alt="泉城记忆" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
