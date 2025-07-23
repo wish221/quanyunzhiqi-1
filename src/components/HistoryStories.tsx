@@ -527,7 +527,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/161154/temple-china-chinese-architecture-161154.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800" 
                 alt="历史长廊" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -556,7 +556,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=800" 
                 alt="名士风流" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -585,7 +585,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=800" 
                 alt="泉城记忆" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -614,7 +614,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800" 
                 alt="长城往事" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
