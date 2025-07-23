@@ -50,8 +50,16 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '公元前859年',
       dynasty: '春秋战国',
       description: '齐太公姜子牙受封齐地，建都临淄，开启了齐国800年的辉煌历史',
-      content: '详细故事内容待补充...',
-      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800'
+      content: `公元前1046年，周武王伐纣成功，建立西周王朝。为了巩固统治，周武王实行分封制，将功臣和宗室分封到各地建立诸侯国。其中，姜子牙（姜太公）因辅佐周武王灭商有功，被封为齐侯，封地在今山东一带。
+
+姜子牙到达齐地后，面临着复杂的政治和社会环境。当时的齐地民风彪悍，部族众多，且保留着许多商朝的文化传统。姜子牙采取了"因其俗，简其礼"的治理方针，即尊重当地的风俗习惯，简化繁琐的礼制，这一政策获得了当地民众的支持。
+
+在都城选址上，姜子牙经过深思熟虑，最终选择了临淄作为齐国的都城。临淄地处齐地中心，地理位置优越，既有淄水环绕，又有丰富的盐铁资源，是理想的建都之地。从此，临淄成为齐国的政治、经济、文化中心，历经800多年的发展，成为春秋战国时期最繁华的都市之一。
+
+齐国在姜子牙及其后代的治理下，逐渐发展壮大。特别是到了春秋时期，齐桓公任用管仲为相，实行改革，使齐国成为春秋五霸之首。齐国不仅在政治军事上强盛，在经济文化方面也达到了很高的水平，临淄更是成为当时世界上最大的城市之一，人口达到数十万。
+
+齐国的建立和临淄的繁荣，为后来济南地区的发展奠定了重要基础。虽然临淄不在今天的济南市区内，但作为齐文化的发源地，它对整个山东地区包括济南的文化形成产生了深远影响。齐国的政治制度、经济模式、文化传统等，都成为后来济南地区发展的重要历史遗产。`,
+      image: '/images/107dc429b50fa05c235432d21ac07ea.png'
     },
     {
       id: '2',
@@ -59,8 +67,18 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       period: '金代',
       dynasty: '宋元',
       description: '金代设立济南府，济南正式成为重要的政治文化中心',
-      content: '详细故事内容待补充...',
-      image: 'https://images.pexels.com/photos/161154/temple-china-chinese-architecture-161154.jpeg?auto=compress&cs=tinysrgb&w=800'
+      content: `济南府的设立是济南历史上的一个重要转折点，标志着济南正式成为一个重要的行政区域中心。这一历史事件发生在金代，具体时间是金天会七年（1129年）。
+
+在金代之前，济南地区虽然历史悠久，但行政地位相对较低。北宋时期，这里设置的是济南郡，隶属于京东东路。1127年，金军南下，攻占了北宋都城开封，北宋灭亡。金朝建立后，对占领区进行了大规模的行政区划调整。
+
+金朝统治者认识到济南地区的重要性：首先，济南地处山东腹地，地理位置十分重要，是连接华北平原和胶东半岛的交通要道；其次，这里水源丰富，有众多泉水，适宜农业发展和城市建设；再次，济南地区人口稠密，经济基础较好，具备设立府级行政区的条件。
+
+金天会七年（1129年），金朝正式设立济南府，这是济南历史上第一次以"济南府"命名的行政区划。济南府的设立，不仅提升了济南的行政地位，也促进了当地经济文化的发展。府治设在历城县（今济南市区），管辖范围包括历城、章丘、长清、济阳等县。
+
+济南府的设立带来了深远的影响。在政治上，济南成为山东地区的重要行政中心之一，府衙的设立吸引了大量官员和文人聚集；在经济上，作为府级城市，济南的商业贸易更加繁荣，手工业也得到发展；在文化上，府学的建立促进了教育事业的发展，培养了大批人才。
+
+此后，无论是元代、明代还是清代，济南府的建制基本得以延续，济南也逐渐发展成为山东省的重要城市。可以说，金代济南府的设立，为济南后来成为山东省会奠定了重要的历史基础。`,
+      image: '/images/107dc429b50fa05c235432d21ac07ea.png'
     }
   ];
 
@@ -70,8 +88,12 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       name: '李清照',
       period: '1084-1155',
       title: '宋代女词人',
-      description: '号易安居士，济南章丘人，宋代著名女词人，婉约词派代表',
-      image: 'https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: `号易安居士，济南章丘人，宋代著名女词人，婉约词派代表人物。李清照出生于书香门第，父亲李格非是著名学者，母亲王氏也出身名门。她自幼聪慧过人，博览群书，工诗善文，尤精于词。
+
+李清照的一生可分为前后两期：前期生活优裕，与丈夫赵明诚伉俪情深，共同致力于金石书画的搜集整理，词风清新婉丽；后期因金兵入侵，国破家亡，丈夫病逝，词风转为沉郁凄婉。代表作有《声声慢》《如梦令》《一剪梅》等，被誉为"千古第一才女"。
+
+她不仅在文学创作上成就卓著，还在文学理论方面有重要贡献，提出了词"别是一家"的理论，对后世词学发展产生了深远影响。李清照的作品情真意切，语言清丽，充分体现了女性独特的情感体验和审美情趣。`,
+      image: '/images/5ade9a4c426e1195338e59ec226d58f.png',
       stories: ['《声声慢》的创作背景', '与赵明诚的爱情故事', '南渡后的颠沛生活']
     },
     {
@@ -79,8 +101,12 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       name: '辛弃疾',
       period: '1140-1207',
       title: '南宋豪放派词人',
-      description: '字幼安，号稼轩，济南历城人，南宋豪放派词人，抗金英雄',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: `字幼安，号稼轩，济南历城人，南宋豪放派词人，抗金英雄。辛弃疾生于金占区，自幼目睹金人统治下人民的痛苦，立志恢复中原。21岁时率众起义抗金，后归附南宋，历任多地知州、安抚使等职。
+
+辛弃疾是豪放派词人的杰出代表，其词作气势磅礴，意境雄阔，充满爱国激情和英雄气概。他善于化用典故，语言生动活泼，既有"醉里挑灯看剑，梦回吹角连营"的豪迈，也有"众里寻他千百度，蓦然回首，那人却在，灯火阑珊处"的深情。
+
+除了文学成就，辛弃疾还是一位杰出的军事家和政治家。他在任职期间，积极整顿军务，训练军队，为抗金复国做了大量准备工作。虽然壮志未酬，但其爱国精神和文学成就永远激励着后人。现存词作600多首，是两宋词人中存词最多者。`,
+      image: '/images/5ade9a4c426e1195338e59ec226d58f.png',
       stories: ['青年时期的抗金经历', '《青玉案·元夕》的创作', '晚年的田园生活']
     },
     {
@@ -88,8 +114,12 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       name: '孔子',
       period: '公元前551-479',
       title: '春秋时期思想家',
-      description: '名丘，字仲尼，春秋时期鲁国人，儒家学派创始人',
-      image: 'https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: `名丘，字仲尼，春秋时期鲁国人，儒家学派创始人，被尊为"至圣先师"。孔子虽然出生于鲁国，但与济南地区有着深厚的历史渊源，其思想对齐鲁文化的形成产生了根本性影响。
+
+孔子一生致力于恢复周礼，主张"仁政"，提出了"仁、义、礼、智、信"等核心思想。他创办私学，有教无类，培养了三千弟子，其中贤者七十二人。孔子整理了《诗》《书》《礼》《易》《乐》《春秋》等典籍，为中华文化的传承做出了巨大贡献。
+
+孔子的思想不仅影响了中国两千多年的历史，也传播到世界各地。在济南地区，孔子文化的影响尤为深远，历代都有众多学者研习儒学，济南也因此成为重要的文化教育中心。孔子的"有朋自远方来，不亦乐乎"等名言，至今仍是中华民族待客之道的体现。`,
+      image: '/images/91bd5551087c7221a74800e6e7314f5.png',
       stories: ['周游列国的经历', '教育思想的形成', '与济南的历史渊源']
     }
   ];
@@ -527,7 +557,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/images/107dc429b50fa05c235432d21ac07ea.png" 
                 alt="历史长廊" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -556,7 +586,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/images/91bd5551087c7221a74800e6e7314f5.png" 
                 alt="名士风流" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -585,7 +615,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/images/5ade9a4c426e1195338e59ec226d58f.png" 
                 alt="泉城记忆" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
@@ -614,7 +644,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
           >
             <div className="relative h-64">
               <img 
-                src="https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800" 
                 alt="长城往事" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
               />
