@@ -59,7 +59,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 齐国在姜子牙及其后代的治理下，逐渐发展壮大。特别是到了春秋时期，齐桓公任用管仲为相，实行改革，使齐国成为春秋五霸之首。齐国不仅在政治军事上强盛，在经济文化方面也达到了很高的水平，临淄更是成为当时世界上最大的城市之一，人口达到数十万。
 
 齐国的建立和临淄的繁荣，为后来济南地区的发展奠定了重要基础。虽然临淄不在今天的济南市区内，但作为齐文化的发源地，它对整个山东地区包括济南的文化形成产生了深远影响。齐国的政治制度、经济模式、文化传统等，都成为后来济南地区发展的重要历史遗产。`,
-      image: '/images/107dc429b50fa05c235432d21ac07ea.png'
+      image: 'https://pic.vibaike.com/img/2022/12/2023050708085730.png'
     },
     {
       id: '2',
@@ -78,7 +78,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 济南府的设立带来了深远的影响。在政治上，济南成为山东地区的重要行政中心之一，府衙的设立吸引了大量官员和文人聚集；在经济上，作为府级城市，济南的商业贸易更加繁荣，手工业也得到发展；在文化上，府学的建立促进了教育事业的发展，培养了大批人才。
 
 此后，无论是元代、明代还是清代，济南府的建制基本得以延续，济南也逐渐发展成为山东省的重要城市。可以说，金代济南府的设立，为济南后来成为山东省会奠定了重要的历史基础。`,
-      image: '/70feac9468428807643a436a5b93ff9.png'
+      image: 'https://n.sinaimg.cn/sinacn20110/300/w1620h1080/20191008/1d0d-ifrwayw5812091.jpg'
     }
   ];
 
@@ -106,7 +106,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 辛弃疾是豪放派词人的杰出代表，其词作气势磅礴，意境雄阔，充满爱国激情和英雄气概。他善于化用典故，语言生动活泼，既有"醉里挑灯看剑，梦回吹角连营"的豪迈，也有"众里寻他千百度，蓦然回首，那人却在，灯火阑珊处"的深情。
 
 除了文学成就，辛弃疾还是一位杰出的军事家和政治家。他在任职期间，积极整顿军务，训练军队，为抗金复国做了大量准备工作。虽然壮志未酬，但其爱国精神和文学成就永远激励着后人。现存词作600多首，是两宋词人中存词最多者。`,
-      image: '/5ade9a4c426e1195338e59ec226d58f.png',
+      image: 'https://pic.baike.soso.com/p/20130822/20130822094911-1836159535.jpg',
       stories: ['青年时期的抗金经历', '《青玉案·元夕》的创作', '晚年的田园生活']
     },
     {
@@ -130,7 +130,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '趵突泉',
       title: '天下第一泉的传说',
       description: '相传趵突泉是龙王的三个儿子化身而成',
-      image: 'https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://static.yueya.net/shuomingshu.cn//wp-content/uploads/images/2022/11/25/daeace802891460c8c08c5f74570d727_mugypk0a1st.jpg',
       legend: '相传很久以前，济南大旱三年，民不聊生。东海龙王得知后，派遣三个儿子前来济南救民于水火。三位龙子到达济南后，化身为三股清泉，日夜不停地向上喷涌，为百姓提供甘甜的泉水。因为泉水喷涌时发出"趵突"的声音，故名趵突泉。泉水清澈甘甜，冬暖夏凉，被誉为"天下第一泉"。'
     },
     {
@@ -138,7 +138,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '黑虎泉',
       title: '黑虎救泉的故事',
       description: '传说有黑虎卧于泉边，保护泉水不被污染',
-      image: 'https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://youimg1.c-ctrip.com/target/100o0z000000n5xzw010C.jpg',
       legend: '传说古时候，有一只神虎守护着这眼泉水。每当有人想要污染泉水或者破坏泉池时，黑虎就会现身阻止。泉水从虎头形状的石雕中喷涌而出，声如虎啸，故名黑虎泉。当地人相信，只要黑虎还在守护，泉水就永远不会干涸，济南的泉水文化也会世代传承下去。'
     },
     {
@@ -146,7 +146,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '大明湖',
       title: '大明湖的形成传说',
       description: '众泉汇聚而成的天然湖泊，有着"四面荷花三面柳"的美景',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/77d3d6af91fc8a213b2ce05a07e1f9cd.jpg_r_1360x1360x95_9aba5968.jpg',
       legend: '大明湖并非天然湖泊，而是由众多泉水汇聚而成。相传在很久以前，济南的泉水过于丰沛，经常泛滥成灾。为了治理水患，古人在城北挖掘了一个巨大的湖泊，让众泉之水汇聚于此。湖水清澈如镜，四周种植荷花和垂柳，形成了"四面荷花三面柳，一城山色半城湖"的绝美景色。湖中还有历下亭、汇泉堂等古迹，文人墨客常在此吟诗作赋。'
     },
     {
@@ -154,7 +154,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '珍珠泉',
       title: '珍珠泉的神奇传说',
       description: '泉水中冒出的气泡如珍珠般晶莹剔透',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://youimg1.c-ctrip.com/target/10061f000001gquixD810_D_10000_1200.jpg?proc=autoorient',
       legend: '传说古时有一位美丽的仙女，因为思念人间的恋人，每日以泪洗面。她的眼泪滴落人间，化作了这眼清泉。泉水中不断冒出的气泡，就是仙女思念的眼泪化成的珍珠。当地人说，如果你在泉边许愿，泉水中的"珍珠"会帮你实现愿望。因此珍珠泉也被称为"许愿泉"，吸引了无数有情人前来祈福。'
     },
     {
@@ -162,7 +162,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '五龙潭',
       title: '五龙治水的传说',
       description: '五条神龙共同治理水患，造福济南百姓',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://img1.qunarzz.com/travel/d5/1703/5b/4590a549977c07b5.jpg_r_640x426x70_16dec1a9.jpg',
       legend: '相传古时济南水患频发，玉皇大帝派遣五条神龙前来治水。五龙各司其职：青龙主东方，掌管春水；白龙主西方，掌管秋水；红龙主南方，掌管夏水；黑龙主北方，掌管冬水；黄龙居中央，统领四方。五龙合力，终于制服了水患，并在此地留下了五个相连的泉池，就是今天的五龙潭。每个泉池都有不同的特色，象征着五龙的不同神力。'
     },
     {
@@ -170,7 +170,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '百脉泉',
       title: '百脉泉的奇观传说',
       description: '泉底涌出无数水脉，如同大地的血管',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://n.sinaimg.cn/sinakd20220903ac/201/w641h360/20220903/2394-a24932e03926dcd9e8ee810c9eec0f60.jpg',
       legend: '传说大地之母为了滋养济南这片土地，在地下布下了无数条水脉，就像人体的血管一样。百脉泉就是这些水脉的汇聚点，泉底可以看到无数条细小的水流涌出，形成了"百脉寒泉珍珠滚"的奇观。古人认为，百脉泉是大地的心脏，只要它还在跳动，济南就会永远充满生机。'
     },
     {
@@ -178,7 +178,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '漱玉泉',
       title: '李清照与漱玉泉',
       description: '女词人李清照常在此漱口洗玉，因此得名',
-      image: 'https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://n.sinaimg.cn/sinakd20122/762/w1000h562/20220921/371f-ee558dd7d1e391fd03e931f275f87cea.jpg',
       legend: '相传宋代女词人李清照居住在济南时，经常到这眼泉水边洗漱。泉水清澈甘甜，李清照用它漱口后，觉得口齿留香，诗思泉涌。她常常在泉边吟诗作词，创作了许多传世佳作。后人为了纪念这位才女，将此泉命名为"漱玉泉"，寓意泉水如玉般纯净，能够洗涤心灵，启发诗意。'
     },
     {
@@ -186,7 +186,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       springName: '金线泉',
       title: '金线泉的神奇现象',
       description: '泉水中出现金色线条，如同天然的艺术品',
-      image: 'https://images.pexels.com/photos/1181533/pexels-photo-1181533.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://img5.iqilu.com/c/u/2018/1205/1543994091445.jpg',
       legend: '传说古时有一位织女下凡，在济南与一位书生相恋。为了表达爱意，织女将自己的金丝带投入泉中，化作了一条条金色的水线。这些金线在阳光照射下闪闪发光，美不胜收。后来织女被召回天庭，但她的金线永远留在了泉中，成为了爱情忠贞的象征。人们说，如果能在金线泉中看到完整的金线，就会获得美满的爱情。'
     }
   ];
@@ -197,7 +197,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
       title: '齐长城的修建',
       period: '春秋战国时期',
       description: '齐国为防御楚、鲁等国入侵而修建的军事防御工程',
-      image: 'https://img12.iqilu.com/10339/sucaiku/compress/202209/01/1822ba999d514b22b68d76879a9f66ed.png',
+      image: 'https://img.cbbn.net/20210308ec4af7b346dfeb7b7c32fa7513c6d8b8.jpg',
       content: `齐长城是中国历史上最早的长城，始建于春秋时期的齐国，比著名的秦长城还要早400多年，堪称"长城之父"。
 
 **修建背景**
@@ -215,14 +215,14 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
 齐长城的修建，不仅有效地保卫了齐国的安全，也促进了齐国经济文化的发展。长城沿线逐渐形成了许多城镇，成为重要的商贸中心。同时，齐长城的修建技术和防御理念，为后来秦始皇修建万里长城提供了宝贵经验。
 
 齐长城虽然历经两千多年的风雨侵蚀，但至今仍有许多段落保存完好，成为研究中国古代军事工程和齐国历史的重要实物资料。`,
-      image: '/70feac9468428807643a436a5b93ff9.png'
+      image: 'https://y2.ifengimg.com/718ad6ec0982b183/2014/0512/rdn_537068da0cec8.jpg'
     },
     {
       id: '2',
       title: '锦阳关的传说',
       period: '春秋战国时期',
       description: '齐长城重要关隘，见证了无数历史风云',
-      image: 'https://img.pconline.com.cn/images/upload/upc/tx/itbbs/1905/03/c17/145881581_1556891100352_mthumb.jpg',
+      image: 'https://n.sinaimg.cn/sinacn22/0/w2048h1152/20180520/fd28-haturft4193471.jpg',
       content: `锦阳关是齐长城上最重要的关隘之一，位于今济南市长清区，地势险要，自古就是兵家必争之地。这里不仅见证了春秋战国的烽火岁月，也承载着丰富的历史文化内涵。
 
 **地理位置与战略意义**
@@ -365,7 +365,7 @@ const HistoryStories: React.FC<HistoryStoriesProps> = ({ onBack }) => {
         <div className="relative bg-white shadow-sm">
           <div className="absolute inset-0">
             <img 
-              src="/70feac9468428807643a436a5b93ff9.png" 
+              src="https://static-cse.canva.cn/blob/190236/Snipaste_20191224_110535.png" 
               alt="历史长廊背景" 
               className="w-full h-full object-cover opacity-20"
             />
